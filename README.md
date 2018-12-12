@@ -9,6 +9,6 @@
 
 * This is a landing page for a fictitious company.
 
-> - by xjanus
+* Website created by xjanus
 
 ![Snapshot of the Landing-Page](https://i.ibb.co/DkzmpSp/purrfect-match.png)
