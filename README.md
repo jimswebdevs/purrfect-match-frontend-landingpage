@@ -1,4 +1,4 @@
-# Purrfect Match - a human-feline dating site.
+# ~ Purrfect Match - a human-feline dating site. ~
 # This website is hosted on Github and published here: [link to my website](https://xjanus.github.io/purrfect-match-frontend-landingpage/) 
 
 
