@@ -8,7 +8,8 @@
 * This website is built as a part of an exercise in an *Udemy course* named *The Web Developer Bootcamp* with the instructor *Colt Steele*.
 
 * This is a landing page for a fictitious company.
+===================================================
 
- ** ~ Website created by xjanus ~ **
+ ** Website created by xjanus **
 
 ![Snapshot of the Landing-Page](https://i.ibb.co/DkzmpSp/purrfect-match.png)
