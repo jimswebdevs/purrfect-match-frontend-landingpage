@@ -1,5 +1,5 @@
 # ~ Purrfect Match - a human-feline dating site. ~
-# This website is hosted on Github and published here: [link to my website](https://xjanus.github.io/purrfect-match-frontend-landingpage/) 
+# This website is hosted on Github and linked here: [link to this website](https://xjanus.github.io/purrfect-match-frontend-landingpage/) 
 
 * A Front End Only website with navigation bar with activated Home button, a sign-up button and a login button with icons and brand name placement on the left.
 
